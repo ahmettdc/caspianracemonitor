@@ -151,8 +151,8 @@ class LiveRaceMonitor(QWidget):
         strategy_row_layout.addWidget(self.strategy_combo)
         strategy_row_layout.addWidget(self.refresh_button)
 
-        strategy_row_layout.addWidget(fcy_strategy_label)
-        strategy_row_layout.addWidget(self.fcy_base_strategy_combo)
+        #strategy_row_layout.addWidget(fcy_strategy_label)
+        #strategy_row_layout.addWidget(self.fcy_base_strategy_combo)
 
         strategy_row_layout.addStretch()
         self.strategy_zone_layout.addWidget(strategy_row)

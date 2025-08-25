@@ -1,0 +1,20 @@
+{
+  "Hypercar": [
+    {"name": "Alpine A424", "brand": "alpine", "image": "alpine.png"},
+    {"name": "Aston Martin Valkyrie", "brand": "astonmartin", "image": "astonmartin.png"},
+    {"name": "BMW M Hybrid V8", "brand": "bmw", "image": "bmw.png"},
+    {"name": "Cadillac V-Series.R", "brand": "cadillac", "image": "cadillac.png"},
+    {"name": "Ferrari 499P", "brand": "ferrari", "image": "ferrari.png"},
+    {"name": "Peugeot 9X8", "brand": "peugeot", "image": "peugeot.png"},
+    {"name": "Porsche 963", "brand": "porsche", "image": "porsche.png"},
+    {"name": "Toyota GR010 - Hybrid", "brand": "toyota", "image": "toyota.png"}
+  ],
+  "LMP2": [
+    {"name": "Oreca 07", "brand": "oreca", "image": "oreca.png"}
+  ],
+  "GT3": [
+    {"name": "Porsche 911 GT3 R", "brand": "porsche", "image": "porsche.png"},
+    {"name": "Ferrari 296 GT3", "brand": "ferrari", "image": "ferrari.png"},
+    {"name": "BMW M4 GT3", "brand": "bmw", "image": "bmw.png"}
+  ]
+}

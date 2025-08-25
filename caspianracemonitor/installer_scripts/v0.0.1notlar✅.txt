@@ -1,0 +1,13 @@
+🆕 **v0.0.1 - 3 Mayıs 2025**
+
+📌 **Yeni Özellikler**
+- Temel arayüz hazırlandı
+- Sidebar bölümü hazırlandı
+- Sidebar gizleyebilen hamburger tarzı buton oluşturuldu
+- Prerace Stint Calculator sistermi kuruldu.
+- İleride kullanılacak car-track dropdown sistemi hazırlandı.
+- Strategy Form ve Table Component bölümlerinin temelleri kuruldu.
+
+
+🐞 **Hatalar Giderildi**
+- Tablo sütun hizaları optimize edildi.

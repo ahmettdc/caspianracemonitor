@@ -1,0 +1,246 @@
+/* Genel Uygulama Teması */
+QWidget {
+    color: white;
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+/* Track, Class ve Car Selector Ortak Stil */
+QComboBox#TrackSelector, QComboBox#ClassSelector, QComboBox#CarSelector {
+    background-color: rgba(50, 50, 50, 0.8);
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 5px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    min-height: 36px;
+}
+
+QComboBox#TrackSelector:hover, QComboBox#ClassSelector:hover, QComboBox#CarSelector:hover {
+    background-color: rgba(70, 70, 70, 0.9);
+}
+
+QComboBox#TrackSelector::drop-down, QComboBox#ClassSelector::drop-down, QComboBox#CarSelector::drop-down {
+    border: none;
+}
+
+QComboBox QAbstractItemView {
+    background-color: rgba(30, 30, 30, 0.95);
+    color: white;
+    selection-background-color: rgba(255, 215, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    outline: none;
+    font-size: 16px;
+}
+
+QComboBox QAbstractItemView::item:hover {
+    background-color: rgba(255, 215, 0, 0.2);
+}
+
+/* Sidebar Özellikleri */
+QListWidget#Sidebar {
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 8px;
+}
+
+QListWidget#Sidebar::item {
+    height: 50px;
+    color: white;
+    padding-left: 10px;
+}
+
+QListWidget#Sidebar::item:selected {
+    background-color: rgba(255, 215, 0, 0.2);
+    border-left: 4px solid #ffd700;
+    font-weight: bold;
+    color: white;
+}
+
+QListWidget#Sidebar::item:hover {
+    background-color: rgba(255, 215, 0, 0.1);
+    color: white;
+}
+
+/* Toggle, Profile, Settings Butonları */
+QPushButton {
+    color: white;
+}
+
+/* Butonlara hover efekti genel */
+QPushButton:hover {
+    background-color: rgba(255, 215, 0, 0.2);
+}
+
+/* QTableWidget Profesyonel Tema */
+QTableWidget[class="RaceTable"] {
+    background-color: transparent;
+    alternate-background-color: rgba(40, 40, 40, 0.8);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    gridline-color: rgba(255, 255, 255, 0.05);
+    border: none;
+    border-radius: 12px;
+    selection-background-color: rgba(255, 215, 0, 0.3);
+    selection-color: white;
+}
+
+QTableWidget::item:hover {
+    background-color: rgba(255, 215, 0, 0.1);
+    color: white;
+}
+
+QHeaderView::section {
+    background-color: rgba(50, 50, 50, 0.8);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+QTableWidget::item {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+QTableView::item:selected {
+    background-color: rgba(255, 215, 0, 0.2);
+    color: white;
+}
+
+QPushButton#CalculateButton {
+    background-color: #ffd700;
+    color: black;
+    font-weight: bold;
+    padding: 30px 40px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+QPushButton#CalculateButton:hover {
+    background-color: #ffcc00;
+}
+
+QCheckBox#StrategyCheckbox {
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    spacing: 6px;
+}
+
+QCheckBox#StrategyCheckbox::indicator {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+QCheckBox#StrategyCheckbox::indicator:checked {
+    background-color: #FFD700;
+    border: 2px solid white;
+}
+
+QLabel#PitTimeLabel {
+    color: #FFD700;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Poppins';
+    padding-top: 6px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+/* === Strategy Option Panel Kutusu === */
+QWidget#StrategyOptionContainer {
+    background-color: rgba(15, 15, 15, 0.85);
+    border: 2px solid #FFD700;
+    border-radius: 18px;
+    padding: 16px;
+    margin: 8px;
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.4);
+}
+
+/* === TireTime & FuelTime Checkbox'ları === */
+QCheckBox#StrategyCheckbox {
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 6px 14px;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+QCheckBox#StrategyCheckbox::indicator {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+QCheckBox#StrategyCheckbox::indicator:checked {
+    background-color: #FFD700;
+    border: 2px solid white;
+}
+
+/* === Input kutuları (LineEdit) === */
+QLineEdit {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFD700;
+    font-size: 16px;
+    font-family: 'Orbitron', 'Poppins';
+    font-weight: bold;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 10px;
+    padding: 6px 10px;
+    min-width: 50px;
+    text-align: center;
+}
+
+/* === Total Pit Time görünümü === */
+QLabel#PitTimeLabel {
+    background-color: #000000;
+    border: 2px solid #FFD700;
+    color: #FFD700;
+    padding: 8px 14px;
+    border-radius: 12px;
+    font-family: 'Orbitron', 'Poppins';
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 1.2px;
+    box-shadow: 0 0 14px rgba(255, 215, 0, 0.5);
+}
+
+/* === Checkbox & input'ları ortalamak için opsiyonel === */
+QWidget#StrategyOptionRow {
+    qproperty-alignment: AlignCenter;
+}
+
+QPushButton#HeaderButton {
+    color: white;
+    background-color: transparent;
+    font-size: 16px;
+    border: none;
+}
+QPushButton#HeaderButton:hover {
+    color: #FFD700;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 6px;
+}
+QWidget#FormGroup {
+    background-color: rgba(40, 40, 40, 0.75);
+    border: 1px solid #ffd700;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 6px 0;
+}
+
+
+
+
+

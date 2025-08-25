@@ -1,0 +1,24 @@
+{
+  "tracks": [
+    {
+      "name": "Silverstone Circuit",
+      "flag": "silverstone.png"
+    },
+    {
+      "name": "Monza",
+      "flag": "monza.png"
+    },
+    {
+      "name": "Suzuka",
+      "flag": "suzuka.png"
+    },
+    {
+      "name": "Spa-Francorchamps",
+      "flag": "spa.png"
+    },
+    {
+      "name": "Circuit of the Americas",
+      "flag": "austin.png"
+    }
+  ]
+}

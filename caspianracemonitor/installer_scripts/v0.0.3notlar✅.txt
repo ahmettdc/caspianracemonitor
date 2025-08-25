@@ -1,0 +1,17 @@
+🆕 v0.0.3 - 7 Mayıs 2025
+
+📌Yeni Özellikler
+-Optional Stint Laps arayüzü sisteme eklendi
+-Strategy option sütunu tema açısından revize edildi
+-Extra fuel lap bölümü eklendi
+-Artık exe ile program direkt full screen modunda aktif
+-Fullscreen nedeniyle sağ üste kapatma butonu eklendi
+
+✅️Düzeltilen Hatalar
+-Exe'nin yanlış yere kurulum yapması düzetildi.
+-Boş hücrelerdeki veri hatası düzeltildi.
+-Pit ve fuel time check kaldırılınca pitlanetime dahil edilmiyor.Böylece son stintdeki pit time zaman hatası düzeliyor.
+
+⛔ Bilinen Hatalar
+-Gereksiz stint satırları oluşuyor
+-Fullscreen açılınca çıkma butonu yok alt+f4 gerekiyor

@@ -1,0 +1,13 @@
+🆕 v0.0.2 - 7 Mayıs 2025
+
+📌Yeni Özellikler
+Toggle view kısmına buton eklendi.Basit detaylı arayüze geçilebilir hale geldi
+
+✅️Düzeltilen Hatalar
+Table Component ikonları düzeltildi
+Strategy options detailed view optional pit time sorunları düzeltildi
+
+⛔ Bilinen Hatalar
+Son stint pit time eklemesi yaparak yanlış hesaplama yapıyor
+Optional stint time arayüzü eksik eklenme planı mevcut
+Gereksiz sitnt satırı oluşuyor

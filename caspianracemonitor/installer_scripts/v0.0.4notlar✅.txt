@@ -1,0 +1,16 @@
+🆕 v0.0.4 - 17 Mayıs 2025
+
+📌Yeni Özellikler
+- Strategy A,B,C,D de serbestlik getirildi(istersen sadece 2 tanesini doldur)
+- Eğer hepsi boşsa en az birinin doldurulması için uyarı mesajı eklendi.
+- Class/Car/Track dropdown seçimine göre otomatik kayıtlı strategy form input sistemi kuruldu
+- Sidebara "Drivers Time" sekmesi eklendi
+- Drivers Time Sayfası eklendi
+
+✅️Düzeltilen Hatalar
+- Fullscreen açılınca exit butonu sorunu düzeltildi.
+
+⛔ Bilinen Hatalar
+-Gereksiz stint satırları oluşuyor
+-Drivers time driver dropdown kayıtlı kalmıyor
+-Race time süresinde sorun var jsona doğru kaydolmuyor

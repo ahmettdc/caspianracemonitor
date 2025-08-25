@@ -1,0 +1,304 @@
+{
+    "strategy_options": {
+        "0": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": false,
+            "fuel_checked": true
+        },
+        "1": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "2": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": false,
+            "fuel_checked": true
+        },
+        "3": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "4": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "5": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "6": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "7": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "8": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "9": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "10": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "11": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "12": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "13": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "14": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "15": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "16": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "17": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "18": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "19": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "20": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "21": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "22": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "23": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "24": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "25": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "26": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "27": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "28": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "29": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "30": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "31": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "32": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "33": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "34": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "35": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "36": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "37": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "38": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "39": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "40": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "41": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "42": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "43": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "44": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "45": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "46": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "47": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "48": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        },
+        "49": {
+            "tire": "37.0",
+            "fuel": "32.0",
+            "tire_checked": true,
+            "fuel_checked": true
+        }
+    }
+}

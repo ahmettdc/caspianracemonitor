@@ -1,0 +1,10 @@
+🆕 v0.0.6 -  Mayıs 2025
+
+📌Yeni Özellikler
+- LiveRaceMonitor sayfası açıldı
+
+✅️Düzeltilen Hatalar
+- RaceStintCalculator son stintte pit zamanı ekleme sorunu düzeltildi
+
+⛔ Bilinen Hatalar
+- Gereksiz stint satırları oluşuyor

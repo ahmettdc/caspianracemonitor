@@ -1,0 +1,14 @@
+🆕 v0.0.5 - 18 Mayıs 2025
+
+📌Yeni Özellikler
+- Drivers time sayfasında manuel stint start-finish saat edit özelliği geldi
+
+✅️Düzeltilen Hatalar
+- Fullscreen boyut problemi düzeltildi
+- RaceTime kayıt sorunu düzeltildi
+- Drivers kayıt sorunu düzeltildi
+- RaceStintCalculator son stintte pit zamanı ekleme sorunu düzeltildi
+
+⛔ Bilinen Hatalar
+- Gereksiz stint satırları oluşuyor
+- Drivers time hesap hataları mevcut

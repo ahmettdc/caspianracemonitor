@@ -1,3 +1,3 @@
 # CaspianRaceMonitor
 
-Python ve PyQt6 tabanlı profesyonel yarış analiz uygulaması.
+A professional Le Mans Ultimate race analysis application built with Python and PyQt6.

@@ -5,16 +5,33 @@
     {"name": "BMW M Hybrid V8", "brand": "bmw", "image": "bmw.png"},
     {"name": "Cadillac V-Series.R", "brand": "cadillac", "image": "cadillac.png"},
     {"name": "Ferrari 499P", "brand": "ferrari", "image": "ferrari.png"},
+    {"name": "Glickenhaus SCG 007", "brand": "glickenhaus", "image": "glickenhaus.png"},
+    {"name": "Isotta Fraschini Tipo 6", "brand": "isotta", "image": "isotta.png"},
+    {"name": "Lamborghini SC63", "brand": "lamborghini", "image": "lamborghini.png"},
     {"name": "Peugeot 9X8", "brand": "peugeot", "image": "peugeot.png"},
     {"name": "Porsche 963", "brand": "porsche", "image": "porsche.png"},
-    {"name": "Toyota GR010 - Hybrid", "brand": "toyota", "image": "toyota.png"}
+    {"name": "Toyota GR010 - Hybrid", "brand": "toyota", "image": "toyota.png"},
+    {"name": "Vanwall Vandervell 680", "brand": "vanwall", "image": "vanwall.png"}
   ],
   "LMP2": [
     {"name": "Oreca 07", "brand": "oreca", "image": "oreca.png"}
   ],
   "GT3": [
-    {"name": "Porsche 911 GT3 R", "brand": "porsche", "image": "porsche.png"},
-    {"name": "Ferrari 296 GT3", "brand": "ferrari", "image": "ferrari.png"},
-    {"name": "BMW M4 GT3", "brand": "bmw", "image": "bmw.png"}
+    {"name": "Ford Mustang LMGT3", "brand": "ford", "image": "ford.png"},
+    {"name": "Porsche 911 LMGT3R", "brand": "porsche", "image": "porsche.png"},
+    {"name": "Ferrari 296 LMGT3", "brand": "ferrari", "image": "ferrari.png"},
+    {"name": "BMW M4 LMGT3", "brand": "bmw", "image": "bmw.png"},
+    {"name": "Mclaren 720S Evo", "brand": "mclaren", "image": "mclaren.png"},
+    {"name": "Mercedes AMG LMGT3", "brand": "mercedes", "image": "mercedes.png"},
+    {"name": "Aston Martin Vantage", "brand": "astonmartin", "image": "astonmartin.png"},
+    {"name": "Corvette Z06 LMGT3.R", "brand": "corvette", "image": "corvette.png"},
+    {"name": "Lamborghini Huracan Evo2", "brand": "lamborghini", "image": "lamborghini.png"},
+    {"name": "Lexus RC F LMGT3", "brand": "lexus", "image": "lexus.png"}
+  ],
+  "GTE": [
+    {"name": "Aston Martin Vantage AMR", "brand": "astonmartin", "image": "astonmartin.png"},
+    {"name": "Chevrolet Corvette C8.R", "brand": "corvette", "image": "corvette.png"},
+    {"name": "Ferrari 488 GTE Evo", "brand": "ferrari", "image": "ferrari.png"},
+    {"name": "Porsche 911 RSR-19", "brand": "porsche", "image": "porsche.png"}
   ]
 }

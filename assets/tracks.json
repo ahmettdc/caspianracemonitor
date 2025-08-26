@@ -5,12 +5,12 @@
       "flag": "silverstone.png"
     },
     {
-      "name": "Monza",
+      "name": "Autodromo Nazionale Monza",
       "flag": "monza.png"
     },
     {
-      "name": "Suzuka",
-      "flag": "suzuka.png"
+      "name": "Fuji International Speedway",
+      "flag": "fuji.png"
     },
     {
       "name": "Spa-Francorchamps",
@@ -18,7 +18,48 @@
     },
     {
       "name": "Circuit of the Americas",
-      "flag": "austin.png"
+      "flag": "cota.png"
+    },
+    {
+      "name": "Bahrain International Circuit",
+      "flag": "bahrain.png"
+    },
+    {
+      "name": "Barcelona Catalunya Circuit",
+      "flag": "barcelona.png"
+    },        
+    {
+      "name": "Emilia Romagna Imola Circuit",
+      "flag": "imola.png"
+    },
+    {
+      "name": "Interlagos",
+      "flag": "interlagos.png"
+    },    
+    {
+      "name": "Lusail International Circuit",
+      "flag": "lusail.png"
+    }, 
+    {
+      "name": "Algarve International Circuit",
+      "flag": "portimao.png"
+    }, 
+    {
+      "name": "Sebring International Raceway",
+      "flag": "sebring.png"
+    }, 
+    {
+      "name": "Circuit de la Sarthe Le Mans",
+      "flag": "lemans.png"
+    },
+    {
+      "name": "Barcelona Catalunya",
+      "flag": "barcelona.png"
+    },
+    {
+      "name": "Paul Ricard Circuit",
+      "flag": "paulricard.png"
     }
+    
   ]
 }
